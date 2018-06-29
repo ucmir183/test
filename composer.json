@@ -1,0 +1,17 @@
+{
+    "name": "hdll/test",
+    "description": "test",
+    "authors": [
+        {
+            "name": "fly",
+            "email": "fly@qq.com"
+        }
+    ],
+    "require": {},
+	 "autoload": {
+        "psr-4": {
+            "hdll\\test\\": "src/"
+        },
+     
+    },
+}
