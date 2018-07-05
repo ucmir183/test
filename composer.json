@@ -7,10 +7,12 @@
             "email": "fly@qq.com"
         }
     ],
-    "require": {},
+    "require": {
+
+    },
 	"autoload": {
         "psr-4": {
-            "ucmir183\\test\\": "src/"
+            "Hdll\\": "src/"
         }
     }
 }
