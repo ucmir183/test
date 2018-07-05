@@ -1,5 +1,5 @@
 {
-    "name": "hdll/server",
+    "name": "hdll/order",
     "description": "test",
     "authors": [
         {
@@ -12,7 +12,7 @@
     },
 	"autoload": {
         "psr-4": {
-            "hdll\\": "src/"
+            "Hdll\\Order\\": "src/"
         }
     }
 }
