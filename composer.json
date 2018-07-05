@@ -1,5 +1,5 @@
 {
-    "name": "ucmir183/hdll2",
+    "name": "hdll/server",
     "description": "test",
     "authors": [
         {
@@ -12,7 +12,7 @@
     },
 	"autoload": {
         "psr-4": {
-            "Hdll\\": "src/"
+            "hdll\\": "src/"
         }
     }
 }
