@@ -8,7 +8,7 @@
  * @license https://github.com/swoft-cloud/swoft/blob/master/LICENSE
  */
 
-namespace Hdll\Order\Lib;
+namespace Hdll\Service\Order\Lib;
 
 use Swoft\Core\ResultInterface;
 
