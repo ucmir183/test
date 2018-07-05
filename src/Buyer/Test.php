@@ -5,7 +5,7 @@
  * Date: 2018/7/5
  * Time: 15:47
  */
-namespace Hdll\Service\Buyer;
+namespace Hdll\Services\Buyer;
 
 class Test {
     public function test() {

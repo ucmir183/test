@@ -5,7 +5,7 @@
  * Date: 2018/7/5
  * Time: 13:15
  */
-namespace Hdll\Service\Order\Enum;
+namespace Hdll\Services\Order\Enum;
 
 class OrderEnum
 {
